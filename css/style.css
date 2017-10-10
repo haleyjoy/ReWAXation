@@ -217,7 +217,7 @@ em {
     padding: 25px;
     margin-top: 0px;
     background-image: url("../images/backdrop.png");
-        background-attachment: scroll;
+        background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
