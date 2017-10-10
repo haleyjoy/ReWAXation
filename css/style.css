@@ -1,0 +1,295 @@
+.logo {
+    max-height: 240px;
+}
+
+.skill-item {
+    text-align: center;
+}
+h2 {
+  color: #F25464;
+  font-size: 100px;
+}
+
+ul {
+  display: inline;
+  margin-top: 10px;
+}
+ul > li {
+  color: #8F6586;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 4px;
+     margin-bottom: 13px;
+
+    font-size: 14px;
+}
+ul > li > a {
+     text-align: center;
+    padding-bottom: 6px;
+    padding-top: 5.5px;
+        padding-left: 13px;
+    padding-right: 13px;
+background: rgba(255,255,255,0.3);
+
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+font-size: 14px;
+color: #C84B57;
+letter-spacing: 0;
+    max-width: 350px;
+    max-height: 45px;
+    margin: auto;
+margin: 5px;
+ }
+ul > li > a:hover {
+    background: rgba(255,255,255,0.9);
+    color: #F25464;
+}
+
+.centered {
+    text-align: center;
+}
+.mobile-hide {
+width: 100%;
+    vertical-align: bottom;
+}
+
+p {
+    color: #7A3C6D;
+}
+.footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.footer li {
+        color: #F7E4FA;
+}
+.footer p {
+        color: #C7B2C3;
+}
+.footer .nav a {
+   text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+border: 1px solid #C7B2C3;
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+font-size: 14px;
+color: #FFFFFF;
+letter-spacing: 0;
+    min-width: 20px;
+    max-height: 45px;
+margin: 5px;
+}
+.footer .nav a:hover {
+    background: rgba(255,255,255,0.9);
+    color: #C84B57;
+    
+}
+h4 {
+    color: #906487;
+    font-size: 20px;
+}
+h5 {
+    color: #906487;
+    font-size: 36px;
+}
+.icon {
+    height: 50px;
+}
+.icon2 {
+    height: 25px;
+    padding-bottom: 20px;
+}
+
+.icon:hover{
+    opacity: 0.5;
+}
+.icon2:hover{
+    opacity: 0.5;
+}
+
+.nav2 {
+    padding-left: 25px;
+}
+
+.go-top {
+    position: fixed;
+    bottom: 3em;
+    right: 3em;
+    opacity: 0.5;
+    display: none;
+    max-width: 70px;
+}
+.go-top:hover {
+    opacity: 1.0;
+}
+img, img.scale-with-grid { outline: 0; max-width: 100%; height: auto; }
+
+a {
+    text-decoration: none;
+    
+}
+
+.red {
+    color:#C84B57;
+    
+}
+.button1 { 
+     text-align: center;
+    padding-bottom: 10px;
+    padding-top: 9.5px;
+    padding-right: 0px;
+
+
+background: rgba(255,255,255,0.6);
+
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+font-size: 18px;
+color: #C84B57;
+letter-spacing: 0;
+    max-width: 350px;
+    max-height: 45px;
+
+}
+.button1:hover {
+background: rgba(255,255,255,0.9);
+    color: #F25464;
+}
+.button1 .red:hover {
+    color: #F25464;
+}
+.button3 {
+    text-align: center;
+max-width: 600px;
+
+}
+.u-max-full-width{
+    text-align: center;
+}
+.italic {
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: .02em;
+ 
+    min-height: 210px;
+
+}
+
+.blue {
+    background-color: #906487;
+}
+.caption {
+    color: #A0B1BA;
+}
+.smaller img {
+    padding: 3px;
+    width: 230px;
+}
+.text {
+position:relative;
+font-size: 18px;
+    font-weight: 500;
+bottom:80px;
+left:0px;
+    padding: 5px;
+    color: white;
+    background-color: rgba(226, 106, 106, 0.5);
+   
+}
+.testimonial {
+    vertical-align: bottom;
+}
+
+.nospace {
+    margin-bottom: -8px;
+}
+em {
+    color: #E85F44;
+    font-style: normal;
+}
+.background-img {
+    padding: 25px;
+    margin-top: 0px;
+    background-image: url("/images/backdrop.png");
+        background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #F4E4F6;
+    text-align: center;
+}
+
+.bigger a {
+    font-size: 18px;
+}
+h6 {
+    color: #906487;
+    font-size: 16px;
+    margin-top: -15px;
+}
+.p-right {
+    text-align: right;
+    padding-right: 11px;
+}
+.p-left {
+    text-align: left;
+    padding-left: 11px;
+}
+.p-left2 {
+    text-align: left;
+
+}
+.pricing {
+    width: 100%;
+}
+td p {
+    margin: -10px;
+}
+thead th {
+  border: 0;
+}
+tbody {
+  border: 0;
+}
+.button4 {
+margin: auto;
+    background: rgba(255,255,255,0.6);
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+font-size: 18px;
+color: #C84B57;
+max-width: 200px;
+}
+.button4:hover {
+background: rgba(255,255,255,0.9);
+    color: #F25464;
+}
+.white {
+padding: 12px;
+    margin-bottom: 10px;
+    background: rgba(255,255,255,0.6);
+
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+    width: 100%;
+}
+.white2 {
+    padding: 12px;
+    padding-bottom: .02px;
+    margin-bottom: 1px;
+    background: rgba(255,255,255,0.6);
+
+border-radius: 45px;
+/* VIEW CLICKABLE PROTO: */
+    width: 100%;
+}
+.bold {
+    text-align: left;
+    font-weight: bold;
+}
