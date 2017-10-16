@@ -149,6 +149,7 @@ a {
     padding-bottom: 10px;
     padding-top: 9.5px;
     padding-right: 0px;
+    margin-bottom: 4px;
 
 
 background: rgba(255,255,255,0.6);
@@ -158,7 +159,7 @@ border-radius: 45px;
 font-size: 18px;
 color: #C84B57;
 letter-spacing: 0;
-    max-width: 350px;
+    max-width: 250px;
     max-height: 45px;
 
 }
@@ -283,16 +284,19 @@ background: rgba(255,255,255,0.9);
 padding: 12px;
     margin-bottom: 10px;
     background: rgba(255,255,255,0.6);
+    width: 200px;
+    margin-left: 6%;
+
 
 border-radius: 45px;
 /* VIEW CLICKABLE PROTO: */
-    width: 100%;
 }
 .white2 {
     padding: 12px;
     padding-bottom: .02px;
-    margin-bottom: 1px;
+    margin-bottom: 4px;
     background: rgba(255,255,255,0.6);
+    box-sizing: border-box;
 
 border-radius: 45px;
 /* VIEW CLICKABLE PROTO: */
