@@ -20,6 +20,7 @@ ul > li {
   display: inline-block;
   margin: 0 4px;
      margin-bottom: 13px;
+    
 
     font-size: 14px;
 }
@@ -56,6 +57,8 @@ width: 100%;
 
 p {
     color: #7A3C6D;
+    font-family: 'Open Sans', sans-serif;
+
 }
 .footer {
     margin-top: 20px;
@@ -67,6 +70,8 @@ p {
 }
 .footer p {
         color: #C7B2C3;
+    font-family: 'Open Sans', sans-serif;
+
 }
 .footer .nav a {
    text-align: center;
@@ -186,6 +191,8 @@ max-width: 600px;
 }
 .caption {
     color: #A0B1BA;
+    font-family: 'Open Sans', sans-serif;
+
 }
 .smaller img {
     padding: 3px;
@@ -200,6 +207,8 @@ left:0px;
     padding: 5px;
     color: white;
     background-color: rgba(226, 106, 106, 0.5);
+    font-family: 'Open Sans', sans-serif;
+
    
 }
 .testimonial {
@@ -216,7 +225,7 @@ em {
 .background-img {
     padding: 25px;
     margin-top: 0px;
-    background-image: url("../images/backdrop.png");
+    background-image: url("../images/backdrop2_3.png");
         background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
